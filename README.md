@@ -7,7 +7,7 @@ This repository does not include vulnerabilities such as:
 - Arbitrary CPIs
 - Math Over/Underflows
 
-Those topics were widely covered including [this repo](https://github.com/NonFungibleHacker/Solana-hacking-stuff)
+Those topics were widely covered including [this repo](https://github.com/hackermystique/Solana-hacking-stuff)
 
 This repository includes code that contains known vulnerabilities in the Solana blockchain.
 This repository is inspired in [@armaniferrante](https://twitter.com/armaniferrante/status/1438706352805797889).
